@@ -40,7 +40,7 @@ setup(
         "ehforwarderbot",
         "python-magic",
         "requests",
-        "python-mirai-core==0.9.1",
+        "python-mirai-core==0.9.0",
         "cachetools"
     ],
     entry_points={
